@@ -1,2 +1,1 @@
-## Operational system
-#### MIPT course
+## 😏 Operational system - MIPT course 
